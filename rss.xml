@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SUPERPOOL]]></title>
         <description><![CDATA[SUPERPOOL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/superpool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 06:51:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 06:57:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/superpool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">e45a8550-5390-44a3-b9a5-3e90b2491bf0</guid>
-            <pubDate>Tue, 17 Nov 2015 06:50:56 GMT</pubDate>
+            <title><![CDATA[Garden of Istanbul]]></title>
+            <description><![CDATA[<article><h1>Garden of Istanbul</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeb411b0-3452-4b37-82c5-2facb68498f6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/superpool/garden-of-istanbul/index.html</link>
+            <guid isPermaLink="false">a5a62223-c56b-4875-a3bb-55eb101f67b3</guid>
+            <pubDate>Tue, 17 Nov 2015 06:50:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
