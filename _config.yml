@@ -1,6 +1,6 @@
 name: SUPERPOOL
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.05271790246479213
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.22795817302539945
   saturation: 0.38088147854432464
   rhythmicContrast: 0.9781492464244366
