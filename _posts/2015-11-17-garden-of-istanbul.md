@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-17T06:50:57.376Z'
-dateModified: '2015-11-17T06:50:46.513Z'
+datePublished: '2015-11-17T07:01:33.551Z'
+dateModified: '2015-11-17T07:01:26.068Z'
 title: Garden of Istanbul
+sourcePath: _posts/2015-11-17-garden-of-istanbul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-garden-of-istanbul.md
-published: true
-url: garden-of-istanbul/index.html
-_type: Article
+_type: Blurb
 
 ---
 New gardens in Istanbul
